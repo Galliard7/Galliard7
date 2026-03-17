@@ -12,12 +12,13 @@ Data scientist and ML engineer. I build models for structured and unstructured d
 
 ### Kaggle Competitions
 
-| Project | Description |
-|---|---|
-| [pii-data-detection](https://github.com/Galliard7/pii-data-detection) | PII Data Detection — synthetic data generation, DeBERTa NER, ONNX ensemble (Public 0.970 / Private 0.956) |
-| [jane-street-market-prediction](https://github.com/Galliard7/jane-street-market-prediction) | Jane Street Market Prediction — high-frequency trading signal modeling |
-| [amex-default-prediction](https://github.com/Galliard7/amex-default-prediction) | American Express Default Prediction — large-scale tabular credit risk |
-| [optiver-realized-volatility](https://github.com/Galliard7/optiver-realized-volatility) | Optiver Realized Volatility Prediction — financial time series |
+| Competition | Result | Approach |
+|---|---|---|
+| [PII Data Detection](https://github.com/Galliard7/pii-data-detection) | 121/2048 (top 6%) | Synthetic data generation, DeBERTa NER, ONNX ensemble |
+| [Ventilator Pressure Prediction](https://github.com/Galliard7/ventilator-pressure-prediction) | 185/2605 (top 7%) | Simulating ventilator connected to a sedated patient's lung |
+| [LLM Science Exam](https://github.com/Galliard7/llm-science-exam) | 194/2664 (top 7%) | Using LLMs to answer difficult science questions |
+| [Amex Default Prediction](https://github.com/Galliard7/amex-default-prediction) | 287/4874 (top 6%) | Large-scale tabular credit risk prediction |
+| [Google Research Football](https://github.com/Galliard7/google-football-2020) | Top finish | Rule-based AI agent with zone tactics and opponent-aware mechanics |
 
 ### Tools and Infrastructure
 
@@ -26,10 +27,6 @@ Data scientist and ML engineer. I build models for structured and unstructured d
 | [noteflow](https://github.com/Galliard7/noteflow) | Task, reminder, and idea board with Mission Control integration |
 | [cc-remote](https://github.com/Galliard7/cc-remote) | Remote Claude Code control via Telegram — handoff, daemon, approvals |
 | [content-extractor](https://github.com/Galliard7/content-extractor) | Ingest articles, PDFs, YouTube, and images into a searchable local store |
-
-## Tech Stack
-
-Python, PyTorch, scikit-learn, pandas, XGBoost, LightGBM, Transformers, ONNX, Hugo
 
 ## Connect
 
