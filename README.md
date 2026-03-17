@@ -15,11 +15,11 @@ Director of Data Science at a fintech company, where I lead a talented team solv
 
 | Competition | Result |
 |---|---|
-| [PII Data Detection](https://github.com/Galliard7/pii-data-detection) | 121/2048 (top 6%) |
-| [Google Research Football](https://github.com/Galliard7/google-football-2020) | 61/1138 (top 5%) |
-| [Ventilator Pressure Prediction](https://github.com/Galliard7/ventilator-pressure-prediction) | 185/2605 (top 7%) |
-| [LLM Science Exam](https://github.com/Galliard7/llm-science-exam) | 194/2664 (top 7%) |
-| [Amex Default Prediction](https://github.com/Galliard7/amex-default-prediction) | 287/4874 (top 6%) |
+| [PII Data Detection](https://github.com/Galliard7/pii-data-detection) | 121/2048 |
+| [Google Research Football](https://github.com/Galliard7/google-football-2020) | 61/1138 🥉 |
+| [Ventilator Pressure Prediction](https://github.com/Galliard7/ventilator-pressure-prediction) | 185/2605 |
+| [LLM Science Exam](https://github.com/Galliard7/llm-science-exam) | 194/2664 |
+| [Amex Default Prediction](https://github.com/Galliard7/amex-default-prediction) | 287/4874 |
 
 ### Tools and Infrastructure
 
