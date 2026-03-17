@@ -27,6 +27,10 @@ Director of Data Science at a fintech company, where I lead a talented team solv
 | [cc-remote](https://github.com/Galliard7/cc-remote) | Remote Claude Code control via Telegram — handoff, daemon, approvals |
 | [content-extractor](https://github.com/Galliard7/content-extractor) | Ingest articles, PDFs, YouTube, and images into a searchable local store |
 
+## Technical Stack
+
+**Languages:** Python | **Databases & Warehousing:** MySQL, BigQuery, Neo4j | **ML & Deep Learning:** PyTorch, TensorFlow, Hugging Face Transformers, XGBoost, LightGBM | **BI & Visualization:** Tableau, Looker | **Infrastructure:** Docker, GitHub Actions | **AI Tooling:** Claude Code, Codex, GitHub Copilot, Gemini CLI, OpenClaw
+
 ## Connect
 
 [Kaggle](https://www.kaggle.com/illidan7) | [Portfolio](https://galliard7.github.io/)
