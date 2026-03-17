@@ -1,6 +1,6 @@
 # Galliard7
 
-Director of Data Science at a fintech company, where I lead a talented team across underwriting, credit risk, acquisition, marketing, and fraud.
+Director of Data Science at a fintech company, where I lead a talented team solving problems across underwriting, credit risk, acquisition, marketing, and fraud detection.
 
 ## What I'm working on
 
@@ -13,13 +13,13 @@ Director of Data Science at a fintech company, where I lead a talented team acro
 
 ### Kaggle Competitions
 
-| Competition | Result | Approach |
-|---|---|---|
-| [PII Data Detection](https://github.com/Galliard7/pii-data-detection) | 121/2048 (top 6%) | Synthetic data generation, DeBERTa NER, ONNX ensemble |
-| [Ventilator Pressure Prediction](https://github.com/Galliard7/ventilator-pressure-prediction) | 185/2605 (top 7%) | Simulating ventilator connected to a sedated patient's lung |
-| [LLM Science Exam](https://github.com/Galliard7/llm-science-exam) | 194/2664 (top 7%) | Using LLMs to answer difficult science questions |
-| [Amex Default Prediction](https://github.com/Galliard7/amex-default-prediction) | 287/4874 (top 6%) | Large-scale tabular credit risk prediction |
-| [Google Research Football](https://github.com/Galliard7/google-football-2020) | Top finish | Rule-based AI agent with zone tactics and opponent-aware mechanics |
+| Competition | Result |
+|---|---|
+| [PII Data Detection](https://github.com/Galliard7/pii-data-detection) | 121/2048 (top 6%) |
+| [Google Research Football](https://github.com/Galliard7/google-football-2020) | 61/1138 (top 5%) |
+| [Ventilator Pressure Prediction](https://github.com/Galliard7/ventilator-pressure-prediction) | 185/2605 (top 7%) |
+| [LLM Science Exam](https://github.com/Galliard7/llm-science-exam) | 194/2664 (top 7%) |
+| [Amex Default Prediction](https://github.com/Galliard7/amex-default-prediction) | 287/4874 (top 6%) |
 
 ### Tools and Infrastructure
 
