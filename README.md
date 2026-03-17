@@ -13,13 +13,13 @@ Director of Data Science at a fintech company, where I lead a talented team solv
 
 ### Kaggle Competitions
 
-| Competition | Result |
-|---|---|
-| [PII Data Detection](https://github.com/Galliard7/pii-data-detection) | 121/2048 |
-| [Google Research Football](https://github.com/Galliard7/google-football-2020) | 61/1138 🥉 |
-| [Ventilator Pressure Prediction](https://github.com/Galliard7/ventilator-pressure-prediction) | 185/2605 |
-| [LLM Science Exam](https://github.com/Galliard7/llm-science-exam) | 194/2664 |
-| [Amex Default Prediction](https://github.com/Galliard7/amex-default-prediction) | 287/4874 |
+| Competition | Problem | Result |
+|---|---|---|
+| [PII Data Detection](https://github.com/Galliard7/pii-data-detection) | Detecting personally identifiable information in student essays | 121/2048 🥉 |
+| [Google Research Football](https://github.com/Galliard7/google-football-2020) | Building AI agents to play 11v11 simulated football | 61/1138 🥉 |
+| [Ventilator Pressure Prediction](https://github.com/Galliard7/ventilator-pressure-prediction) | Predicting airway pressure in mechanically ventilated patients | 185/2605 🥉 |
+| [LLM Science Exam](https://github.com/Galliard7/llm-science-exam) | Answering difficult science questions with LLMs | 194/2664 🥉 |
+| [Amex Default Prediction](https://github.com/Galliard7/amex-default-prediction) | Predicting credit default from large-scale transaction data | 287/4874 🥉 |
 
 ### Tools and Infrastructure
 
