@@ -1,11 +1,12 @@
 # Galliard7
 
-Data scientist and ML engineer. I build models for structured and unstructured data, and tools to support my workflow.
+Director of Data Science at a fintech company, where I lead a talented team across underwriting, credit risk, acquisition, marketing, and fraud.
 
 ## What I'm working on
 
-- Kaggle competitions — NLP, time series, tabular modeling
-- Developer tooling for AI-assisted workflows (OpenClaw ecosystem)
+- Building agentic workflows with Claude Code, Codex, Gemini CLI, and OpenClaw to accelerate how data science gets done
+- Competing on Kaggle across deep learning, LLMs, computer vision, and time series — learning from and competing against some of the best data scientists in the world
+- Open-source tooling for productivity and automation
 <!-- TODO: Add portfolio site link here once https://galliard7.github.io/ is live -->
 
 ## Featured Projects
