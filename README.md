@@ -7,8 +7,6 @@ Director of Data Science at a fintech company, where I lead a talented team solv
 - Building agentic workflows to accelerate how data science gets done
 - Competing on Kaggle across deep learning, LLMs, computer vision, and time series — learning from and competing against some of the best data scientists in the world
 - Open-source tooling for productivity and automation
-- [Portfolio](https://galliard7.github.io/)
-
 ## Featured Projects
 
 ### Kaggle Competitions
@@ -31,4 +29,4 @@ Director of Data Science at a fintech company, where I lead a talented team solv
 
 ## Connect
 
-[Kaggle](https://www.kaggle.com/illidan7)
+[Kaggle](https://www.kaggle.com/illidan7) | [Portfolio](https://galliard7.github.io/)
