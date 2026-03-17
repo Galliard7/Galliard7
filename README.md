@@ -4,7 +4,7 @@ Director of Data Science at a fintech company, where I lead a talented team solv
 
 ## What I'm working on
 
-- Building agentic workflows with Claude Code, Codex, Gemini CLI, and OpenClaw to accelerate how data science gets done
+- Building agentic workflows to accelerate how data science gets done
 - Competing on Kaggle across deep learning, LLMs, computer vision, and time series — learning from and competing against some of the best data scientists in the world
 - Open-source tooling for productivity and automation
 <!-- TODO: Add portfolio site link here once https://galliard7.github.io/ is live -->
