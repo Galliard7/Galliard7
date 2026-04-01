@@ -5,8 +5,8 @@ Director of Data Science & AI at a fintech company, driving agentic AI transform
 ## What I'm working on
 
 - Building agentic workflows to accelerate how data science gets done
-- Competing on Kaggle across deep learning, LLMs, computer vision, and time series — learning from and competing against some of the best data scientists in the world
-- Open-source tooling for productivity and automation
+- Building open-source tools for productivity, automation, and AI-enabled workflows
+- Past competitive work on Kaggle spans deep learning, LLMs, computer vision, and time series
 ## Featured Projects
 
 ### Kaggle Competitions
