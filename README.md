@@ -1,6 +1,6 @@
 # Galliard7
 
-Director of Data Science at a fintech company, where I lead a talented team solving problems across underwriting, credit risk, acquisition, marketing, and fraud detection.
+Director of Data Science & AI at a fintech company, driving agentic AI transformation to accelerate data science workflows.
 
 ## What I'm working on
 
