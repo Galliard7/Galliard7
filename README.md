@@ -1,12 +1,12 @@
 # Shyam Prabhakar
 
-**Director of Data Science** — I build and own the production ML & decision systems a lending business runs on: underwriting, acquisition, and fraud. I'm reinventing how the data science & analytics function operates with agentic AI, and I turn a business's data into durable, compounding assets that cut cost, unlock scale, and build a lasting competitive edge.
+**Director of Data Science** — I build and own the production ML & decision systems a lending business runs on: underwriting, acquisition, and fraud. I'm reimagining how the data science & analytics function operates with agentic AI, and I turn a business's data into durable, compounding assets that cut cost, unlock scale, and build a lasting competitive edge.
 
 🌐 **[shyamprabhakar.com](https://shyamprabhakar.com)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shyam-prabhakar-aa87a7b8/) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/illidan7)
 
 ## What I'm working on
 
-- Reinventing how our data science & analytics function operates with agentic AI — human-in-the-loop pipelines and a business knowledge base that ground our tooling in how the company actually works
+- Reimagining how our data science & analytics function operates with agentic AI — human-in-the-loop pipelines and a business knowledge base that ground our tooling in how the company actually works
 - Building production ML & decision systems for underwriting, acquisition, and fraud
 - Building LLM-powered projects with modern agentic coding tools
 - Competing on Kaggle across deep learning, LLMs, computer vision, and time series
